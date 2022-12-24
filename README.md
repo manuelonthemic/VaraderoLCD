@@ -8,3 +8,5 @@ trying to fix up the code and document installation process
 
 .pdn files are for https://www.getpaint.net/, photo editor i use to make the wiring diagram
 
+
+as of right now im only trying to implement the odometer, trip odometer and engine temperature sensor, if i succeed at doing that i might add back the clock 
