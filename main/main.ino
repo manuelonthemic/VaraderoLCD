@@ -317,8 +317,9 @@ void setExternalTemp() {
 }
 
 
-//not called for now
-void EEPROMWritelong(int address, long value) {
+
+void EEPROMWritelong(int address, long value) //not called for now
+{
   byte four = (value & 0xFF);
   byte three = ((value >> 8) & 0xFF);
   byte two = ((value >> 16) & 0xFF);
